@@ -1,0 +1,17 @@
+*{
+   color: red;
+   background-color:black;
+}
+img{
+   border: red solid 20px;  
+   height: 200px; 
+   border-radius: 100px;
+   position: relative;
+   left: 450px;
+}
+p{
+   border: red double 20px;
+}
+h1,h2{
+   border: red double 20px;
+}
